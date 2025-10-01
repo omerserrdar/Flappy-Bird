@@ -29,8 +29,7 @@ Windows Forms (WinForms)
 📦 Kurulum & Çalıştırma
 
 Bu projeyi bilgisayarına klonla:
-git clone https://github.com/kullaniciadi/flappy-bird-csharp.git
-
+git clone  https://github.com/omerserrdar/Flappy-Bird
 Visual Studio ile aç.
 
 Çalıştırmak için Start butonuna bas.
